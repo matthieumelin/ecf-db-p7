@@ -1,0 +1,1 @@
+CREATE USER 'ecf_user'@'localhost' IDENTIFIED BY 'ecf_password'
